@@ -79,7 +79,7 @@ header a{
   }
   
   #call-to-action .cta-btn {
-    font-family: "Montserrat", sans-serif;
+   
     font-weight: 700;
     font-size: 16px;
     letter-spacing: 1px;
@@ -165,7 +165,7 @@ header a{
     margin: 0 0 20px 0;
     padding: 2px 0 2px 0;
     line-height: 1;
-    font-family: "Montserrat", sans-serif;
+
     color: #616161;
     font-weight: 400;
     letter-spacing: 3px;
@@ -176,7 +176,7 @@ header a{
     font-size: 13px;
     line-height: 24px;
     margin-bottom: 0;
-    font-family: "Montserrat", sans-serif;
+   
     color: #535074;
   }
   

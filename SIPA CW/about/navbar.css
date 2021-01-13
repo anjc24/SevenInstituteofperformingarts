@@ -42,7 +42,7 @@
 }
   
   header a {
-    font-family: var(--Sniglet-font);
+ 
     font-size: 0.9em;
     color: whitesmoke;
   }
@@ -101,7 +101,7 @@
   
   header .container .col-md-7 {
     text-align: left;
-    font-family: "Rubik", sans-serif;
+  
   }
   
   header .container .col-md-7 h6 {
